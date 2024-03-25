@@ -1,0 +1,27 @@
+body{
+  background-color: #ffffff;  
+}
+
+.navbar {
+    background-color: #ffffff; color: #1b0088;
+}
+
+.navbar-nav .nav-link{
+    color: #1b0088;
+}
+
+.navbar-brand {
+    color: #1b0088;
+}
+
+h1 {
+    color: #1b0088;
+}
+
+h2 {
+    color: #1b0088;
+}
+
+p {
+    color: #1b0088;
+}
